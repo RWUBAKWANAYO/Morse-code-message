@@ -25,3 +25,7 @@ def decode_result(str)
   end
   result
 end
+
+puts decode_char('.-')
+puts decode_word('-- -.--')
+puts decode_result('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
