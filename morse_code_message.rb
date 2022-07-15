@@ -17,3 +17,11 @@ def decode_word(str)
   end
   new_str
 end
+
+def decode_result(str)
+  result = ''
+  str.split('  ').each do |word|
+    result += "#{decode_word(word)} "
+  end
+  result
+end
