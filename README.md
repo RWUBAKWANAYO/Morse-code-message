@@ -13,7 +13,7 @@
 
 - Clone this repo locally using git in the command line and the following command
 ```
-> git clone git@github.com:Bondok6/Enumerable.git
+> https://github.com/RWUBAKWANAYO/Morse-code-message.git
 ```
 - Alternatively, you can just download the complete zip file and extract the folder in your directory
 
